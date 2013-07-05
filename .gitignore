@@ -1,0 +1,4 @@
+build
+tests
+bin/*
+!bin/.empty.txt
